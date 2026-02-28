@@ -1,0 +1,9 @@
+{
+  "name": "datadash-qa-scraper",
+  "version": "1.0.0",
+  "description": "Automated QA with Playwright",
+  "main": "scrape_and_sum.js",
+  "dependencies": {
+    "playwright": "^1.42.0"
+  }
+}
